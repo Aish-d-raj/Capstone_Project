@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "name": "Aish",
+      "email": "aish@gmail.com",
+      "phone": "1234567891",
+      "address": "sdfghjklcvbnm",
+      "exp": "sdfghjklcvbnm,.ertyuiocvbnm,",
+      "id": 1
+    },
+    {
+      "id": "102",
+      "name": "A",
+      "email": "aish@gmail.com",
+      "phone": "01234567891",
+      "address": "dfcghjkl",
+      "exp": "dfghjkl;vcduhvijv;ls"
+    },
+    {
+      "id": "101",
+      "name": "A",
+      "email": "aish@gmail.com",
+      "phone": "01234567891",
+      "address": "",
+      "exp": "dfghjk"
+    }
+  ]
+}

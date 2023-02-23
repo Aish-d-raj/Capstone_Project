@@ -1,0 +1,12 @@
+.Apply-form input,textarea{
+    display: block;
+    width: 600px;
+    padding: .5rem .8rem .5rem .8rem;
+    border-radius: 2px;
+    margin-left: 300px;
+    border: 1px solid black;
+}
+
+.Apply-form p{
+    color: red;
+}

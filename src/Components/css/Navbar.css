@@ -1,0 +1,8 @@
+
+
+.nav{
+    display: flex;
+    flex-direction: row-reverse;
+    column-gap: 10px;
+    
+}

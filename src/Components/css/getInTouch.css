@@ -1,0 +1,53 @@
+
+.form-box input,textarea{
+    display: block;
+    width: 600px;
+    padding: .5rem .8rem .5rem .8rem;
+    border-radius: 2px;
+    
+    border: 1px solid black;
+}
+
+.form-box{
+    margin-left: 30px;
+}
+
+img{
+    width: 500px;
+    height: 400px
+}
+
+.maincont {
+    display: flex;
+    
+    /* margin-top: 20px; */
+    column-gap: 50px;
+    column-count: 2;
+}
+
+.cont1,.cont2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+
+.form-box p{
+    color: red;
+}
+@media only screen and (max-width: 200px) {
+    /* For mobile phones: */
+    .maincont,.cont1,.cont2 {
+      width: 100%;
+    }
+  }
+/* .address{
+    /* align-items: center;
+    justify-content: center; */
+    /* margin-left: 600px;
+    margin-top: 10px;
+    width:600px;
+    height: 100px;
+    border: 1px solid black;
+} */ 
